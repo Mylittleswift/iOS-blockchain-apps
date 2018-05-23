@@ -1,11 +1,19 @@
 # iOS-blockchain-apps
 
 Jump to
-
+- [Business](#business) 
 - [Finance](#finance) 
-  - [Cryptocurrency](#cryptocurrency) 
-  
-### Cryptocurrency 
+  - [Digital Wallet](#digitalwallet)
+  - [Cryptocurrency market info](#cryptocurrencyinfo)
+- [Game](#game)
+- [Internet of Things](#Internetofthings)
+- [News](#news) 
+- [Social Media](#SocialMedia)
+- [Tools](#tools)
+
+
+
+### Finance 
  
 [back to top](#readme) 
  
