@@ -37,9 +37,9 @@ Github open source iOS apps using blockchain technology
 
 -  Blockchain Wallet: Bitcoin wallet  
    <details><summary><code>objc</code> </summary>
-
-  https://github.com/blockchain/My-Wallet-V3-iOS<br>  Added April 11, 2015<br>  License: [`LGPL v3`](http://choosealicense.com/licenses/lgpl-3.0/)
-  <div><img height='300' alt='BitStore image 1' src='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/50/31/ba/5031ba97-75c9-6a4b-446d-2b947e63c089/pr_source.jpg/300x0w.jpg'> 
+ 
+   https://github.com/blockchain/My-Wallet-V3-iOS<br>  Added April 11, 2015<br>  License: [`LGPL v3`](http://choosealicense.com/licenses/lgpl-3.0/)
+   <div><img height='300' alt='BitStore image 1' src='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/50/31/ba/5031ba97-75c9-6a4b-446d-2b947e63c089/pr_source.jpg/300x0w.jpg'> 
 </div>
   </details>
 
