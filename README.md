@@ -1,10 +1,9 @@
 # iOS-blockchain-apps
-
-Jump to
+Github open source iOS apps using blockchain technology 
 - [Business](#business) 
 - [Finance](#finance) 
   - [Digital Wallet](#digitalwallet)
-  - [Cryptocurrency market info](#cryptocurrencyinfo)
+  - [Cryptocurrency Market Info](#cryptocurrencyinfo)
 - [Game](#game)
 - [Internet of Things](#Internetofthings)
 - [News](#news) 
