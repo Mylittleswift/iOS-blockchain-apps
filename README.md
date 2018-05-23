@@ -2,10 +2,9 @@
 Github open source iOS apps using blockchain technology 
 - [Business](#business) 
 - [Finance](#finance) 
-- [Games](#games)
-- [Internet of Things](#Internetofthings)
-- [Social Networking](#SocialNetworking)
-- [Blockchain-frameworks](#Blockchainframworks)
+- [Internet of Things](#internet-of-things)
+- [Social Networking](#social-networking)
+- [Blockchain Frameworks](#blockchain-framworks)
 
 
 ### Finance 
@@ -60,3 +59,11 @@ Github open source iOS apps using blockchain technology
   <div><img height='300' alt='Trust image 1' src='https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5aa0e8bcefcfd2000161d6eb_Main_Image-p-500.png'> 
 </div>
   </details>
+
+
+### Blockchain Frameworks
+- [Web3.swift](https://github.com/Boilertalk/Web3.swift) - Web3 library for interacting with the Ethereum blockchain.
+- [web3swift](https://github.com/BANKEX/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
+- [Bitcoinkit](https://github.com/kishikawakatsumi/BitcoinKit) - Bitcoin protocol toolkit for Swift
+- [EthereumKit](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
+
