@@ -69,4 +69,5 @@ Github open source iOS apps using blockchain technology
 - [web3swift](https://github.com/BANKEX/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
 - [Bitcoinkit](https://github.com/kishikawakatsumi/BitcoinKit) - Bitcoin protocol toolkit for Swift
 - [EthereumKit](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
+- [EtherKit](https://github.com/Vaultio/EtherKit)- a WIP library for building rich, secure applications on the Ethereum blockchain.
 
